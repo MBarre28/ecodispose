@@ -21,10 +21,10 @@ Please choose an electronic device from the list below that you would like to re
 ### Backup security check
 Checking whether the user has a backup on their device. If not, the program will terminate; if yes, it will proceed to the next step.
 
-### Option A
+### Option A - Donate
 If the user selects "donate," they can choose a charity that accepts electronic device donations. A URL link on the company’s website will provide information on locations and registration.
 
-### Option B 
+### Option B - Recycle
 If the user has selected "recycle", the user can enter a list of locations in the UK, since it's a British recycling/donating company.
 
 ## End program
