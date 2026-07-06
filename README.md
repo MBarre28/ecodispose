@@ -25,7 +25,7 @@ Checking whether the user has a backup on their device. If not, the program will
 If the user selects "donate," they can choose a charity that accepts electronic device donations. A URL link on the company’s website will provide information on locations and registration.
 
 ### Option B - Recycle
-If the user has selected "recycle", the user can enter a list of locations in the UK, since it's a British recycling/donating company.
+If the user has selected "recycle", the user can enter a list of locations in the UK, since it's a British recycling/donation company.
 
 ## End program
 Thank you message
